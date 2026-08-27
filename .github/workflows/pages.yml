@@ -12,7 +12,37 @@ permissions:
   id-token: write
 
 jobs:
-  publish:
-    uses: tjakobsson/brain-manual/.github/workflows/publish-pages.yml@3c21593ca9ca98c20988ba462271832588e521da
-    with:
-      vault: .
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out vault
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+
+      - id: pages
+        name: Read Pages configuration
+        uses: actions/configure-pages@45bfe0192ca1faeb007ade9deae92b16b8254a0d
+
+      - id: site
+        name: Build site
+        uses: tjakobsson/brain@32967ee69c0f9f2b1d1d68361e7214a0ca3b7c82 # v1
+        with:
+          vault: .
+          output: ${{ runner.temp }}/brain-site
+          site: ${{ steps.pages.outputs.origin }}
+          base-path: ${{ steps.pages.outputs.base_path }}
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@fc324d3547104276b827a68afc52ff2a11cc49c9
+        with:
+          path: ${{ steps.site.outputs.output-path }}
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        name: Deploy Pages artifact
+        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
