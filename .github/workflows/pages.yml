@@ -13,6 +13,6 @@ permissions:
 
 jobs:
   publish:
-    uses: tjakobsson/brain-manual/.github/workflows/publish-pages.yml@5c29c51c7f252969a4e6e49a171a3de234699066
+    uses: tjakobsson/brain-manual/.github/workflows/publish-pages.yml@3c21593ca9ca98c20988ba462271832588e521da
     with:
       vault: .
