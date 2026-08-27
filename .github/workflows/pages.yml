@@ -24,7 +24,7 @@ jobs:
 
       - id: site
         name: Build site
-        uses: tjakobsson/brain@456feed95902193227afb795110d1f81e682b1e3 # candidate
+        uses: tjakobsson/brain@22861c652911bd6637ab41fa14b16991d39cc8ff # candidate
         with:
           vault: .
           output: ${{ runner.temp }}/brain-site
