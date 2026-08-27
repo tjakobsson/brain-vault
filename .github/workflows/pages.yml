@@ -1,0 +1,18 @@
+name: Publish vault
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  publish:
+    uses: tjakobsson/brain-manual/.github/workflows/publish-pages.yml@5c29c51c7f252969a4e6e49a171a3de234699066
+    with:
+      vault: .
