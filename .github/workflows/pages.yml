@@ -26,7 +26,7 @@ jobs:
         name: Build site
         uses: tjakobsson/brain@e2de71bbd71903893f2fcd0f345f8e0755337acd # v1.2 candidate
         with:
-          vault: .
+          workspace: workspace.json
           output: ${{ runner.temp }}/brain-site
           site: ${{ steps.pages.outputs.origin }}
           base-path: ${{ steps.pages.outputs.base_path }}

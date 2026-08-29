@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "title": "Tobias's brains",
+  "description": "Independent collections of connected notes.",
+  "brains": [
+    {
+      "id": "manual",
+      "title": "Brain manual",
+      "path": "./brains/manual",
+      "description": "Organization, engineering, and personal knowledge"
+    },
+    {
+      "id": "ux-ui",
+      "title": "iOS UX and UI",
+      "path": "./brains/ux-ui",
+      "description": "Beginner-friendly iOS design knowledge from Apple",
+      "accent": "#007AFF"
+    }
+  ]
+}
