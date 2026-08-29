@@ -14,6 +14,12 @@ The curated entry points into this brain. Everything here is a door, not a desti
 - [[Independence of action]] — Kim & Spear: wire work so autonomy is possible
 - [[Outcome Management directs Agentic Engineering]] — Kersten: connect agent-produced outputs to measurable effects
 
+## Software supply chain
+
+- [[Software Bill of Materials]] — the machine-readable inventory of a software product
+- [[Vulnerability Exploitability Exchange]] — product-specific context for vulnerability matches
+- [[BOMHort]] — an open-source SBOM visualization and governance platform
+
 ## This vault
 
 - [[Second brain inbox]] — unprocessed loose threads
