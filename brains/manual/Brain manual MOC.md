@@ -6,7 +6,7 @@ tags:
 created: 2026-08-26
 ---
 
-The curated entry points into this brain. Everything here is a door, not a destination.
+This workspace is a public demo of what [Brain](https://github.com/tjakobsson/brain) can do. These are the curated entry points into the manual brain. Everything here is a door, not a destination.
 
 ## Organization
 

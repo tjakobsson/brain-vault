@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-labelledby="title desc">
+  <title id="title">Content inside and outside a safe area</title>
+  <desc id="desc">A generic phone shows a full-bleed background with essential text and controls inside an inset safe area.</desc>
+  <rect width="800" height="400" rx="24" fill="#f8fafc"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #0f172a; }
+    .label { font-size: 16px; font-weight: 700; }
+    .small { font-size: 13px; fill: #475569; }
+    .inverse { fill: #ffffff; }
+  </style>
+  <text class="label" x="400" y="34" text-anchor="middle">Background can bleed; important content stays safe</text>
+  <rect x="270" y="50" width="260" height="324" rx="38" fill="#bfdbfe" stroke="#334155" stroke-width="3"/>
+  <circle cx="474" cy="180" r="110" fill="#93c5fd" opacity="0.7"/>
+  <circle cx="318" cy="302" r="88" fill="#60a5fa" opacity="0.55"/>
+  <rect x="290" y="80" width="220" height="254" rx="18" fill="none" stroke="#16a34a" stroke-width="3" stroke-dasharray="8 6"/>
+  <rect x="355" y="60" width="90" height="20" rx="10" fill="#0f172a"/>
+  <rect x="371" y="347" width="58" height="5" rx="3" fill="#0f172a"/>
+  <rect x="310" y="102" width="180" height="70" rx="12" fill="#ffffff" opacity="0.92"/>
+  <text x="328" y="130" font-size="19" font-weight="750">Coastal walk</text>
+  <text class="small" x="328" y="153">4.2 km · Easy</text>
+  <rect x="426" y="286" width="64" height="34" rx="12" fill="#2563eb"/>
+  <text class="inverse" x="458" y="308" text-anchor="middle" font-size="12" font-weight="700">Start</text>
+  <path d="M258 80 H186" stroke="#16a34a" stroke-width="2"/>
+  <text class="small" x="176" y="75" text-anchor="end">Safe area</text>
+  <path d="M542 206 H614" stroke="#2563eb" stroke-width="2"/>
+  <text class="small" x="624" y="201">Full-bleed image</text>
+  <text class="small" x="624" y="220">may extend outside</text>
+</svg>

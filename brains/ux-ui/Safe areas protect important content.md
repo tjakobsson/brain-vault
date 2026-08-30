@@ -9,6 +9,8 @@ created: 2026-08-29
 
 The safe area identifies the part of a screen where system UI and device shape will not cover important content.
 
+![A full-bleed background extends past the safe area while important content stays inside](visuals/safe-area.svg)
+
 ## What it means
 
 iPhone screens can include rounded corners, a sensor area, a status area, navigation bars, tab bars, and the Home indicator. Their positions and sizes are not fixed across every device or situation.

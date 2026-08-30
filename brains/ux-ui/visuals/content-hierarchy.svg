@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">Weak and clear content hierarchy</title>
+  <desc id="desc">Two generic phone screens compare controls that compete with content against a screen where the recipe is clearly primary.</desc>
+  <rect width="800" height="360" rx="24" fill="#f8fafc"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #0f172a; }
+    .label { font-size: 16px; font-weight: 700; }
+    .small { font-size: 12px; fill: #475569; }
+    .body { font-size: 13px; }
+    .inverse { fill: #ffffff; }
+  </style>
+  <text class="label" x="200" y="34" text-anchor="middle">Everything competes</text>
+  <text class="label" x="600" y="34" text-anchor="middle">Content leads</text>
+  <rect x="85" y="52" width="230" height="278" rx="26" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="485" y="52" width="230" height="278" rx="26" fill="#ffffff" stroke="#94a3b8" stroke-width="2"/>
+  <g>
+    <rect x="103" y="76" width="54" height="34" rx="9" fill="#2563eb"/>
+    <rect x="164" y="76" width="64" height="34" rx="9" fill="#2563eb"/>
+    <rect x="235" y="76" width="62" height="34" rx="9" fill="#2563eb"/>
+    <text class="inverse" x="130" y="98" text-anchor="middle" font-size="10">Save</text>
+    <text class="inverse" x="196" y="98" text-anchor="middle" font-size="10">Share</text>
+    <text class="inverse" x="266" y="98" text-anchor="middle" font-size="10">Print</text>
+    <rect x="103" y="124" width="194" height="72" rx="10" fill="#dbeafe"/>
+    <text class="body" x="200" y="218" text-anchor="middle" font-weight="700">Tomato pasta</text>
+    <rect x="103" y="234" width="194" height="12" rx="6" fill="#cbd5e1"/>
+    <rect x="103" y="254" width="162" height="12" rx="6" fill="#cbd5e1"/>
+    <rect x="103" y="274" width="178" height="12" rx="6" fill="#cbd5e1"/>
+    <text class="small" x="200" y="313" text-anchor="middle">Controls draw attention first</text>
+  </g>
+  <g>
+    <text x="503" y="94" font-size="12" fill="#2563eb">Back</text>
+    <text x="697" y="94" text-anchor="end" font-size="18">•••</text>
+    <text x="503" y="132" font-size="24" font-weight="750">Tomato pasta</text>
+    <text class="small" x="503" y="151">20 minutes</text>
+    <rect x="503" y="166" width="194" height="82" rx="12" fill="#dbeafe"/>
+    <text class="body" x="503" y="276" font-weight="700">Ingredients</text>
+    <rect x="503" y="288" width="172" height="11" rx="5" fill="#cbd5e1"/>
+    <rect x="503" y="307" width="138" height="11" rx="5" fill="#cbd5e1"/>
+  </g>
+</svg>

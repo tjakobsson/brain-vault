@@ -9,6 +9,8 @@ created: 2026-08-29
 
 An iOS screen should make its main content or task obvious before it asks people to notice secondary controls.
 
+![Two recipe screens compare competing controls with a clear content-first hierarchy](visuals/content-hierarchy.svg)
+
 ## What it means
 
 Visual hierarchy is the order in which the interface attracts attention. Size, position, spacing, color, and contrast all affect that order. The most important content or action should be easiest to find. Supporting actions can remain available without competing for attention.

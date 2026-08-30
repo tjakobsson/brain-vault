@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc">
+  <title id="title">Visible icon size and touch target size</title>
+  <desc id="desc">A small close icon has a larger 44 by 44 point interactive area and enough separation from a neighboring button.</desc>
+  <rect width="800" height="360" rx="24" fill="#f8fafc"/>
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #0f172a; }
+    .label { font-size: 16px; font-weight: 700; }
+    .small { font-size: 13px; fill: #475569; }
+  </style>
+  <text class="label" x="400" y="38" text-anchor="middle">The target is larger than the artwork</text>
+  <rect x="150" y="92" width="176" height="176" rx="24" fill="#ffffff" stroke="#cbd5e1"/>
+  <rect x="216" y="134" width="88" height="88" fill="#dbeafe" stroke="#2563eb" stroke-width="3" stroke-dasharray="7 5"/>
+  <path d="M250 168 L270 188 M270 168 L250 188" stroke="#0f172a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M216 232 V254 M304 232 V254 M216 244 H304" stroke="#64748b" stroke-width="1.5"/>
+  <text class="small" x="260" y="276" text-anchor="middle">44 pt target</text>
+  <text class="small" x="260" y="304" text-anchor="middle">20 pt icon</text>
+  <path d="M360 180 H430" stroke="#94a3b8" stroke-width="2"/>
+  <path d="M418 171 L432 180 L418 189" fill="none" stroke="#94a3b8" stroke-width="2"/>
+  <g transform="translate(468 92)">
+    <rect width="176" height="176" rx="24" fill="#ffffff" stroke="#cbd5e1"/>
+    <rect x="24" y="54" width="56" height="56" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2" stroke-dasharray="5 4"/>
+    <rect x="96" y="54" width="56" height="56" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="2" stroke-dasharray="5 4"/>
+    <path d="M44 74 L60 90 M60 74 L44 90" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M113 82 H135 M124 71 V93" stroke="#0f172a" stroke-width="3" stroke-linecap="round"/>
+    <path d="M80 126 H96" stroke="#16a34a" stroke-width="3"/>
+    <text class="small" x="88" y="151" text-anchor="middle">Space targets apart</text>
+  </g>
+</svg>

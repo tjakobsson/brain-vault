@@ -9,6 +9,8 @@ created: 2026-08-29
 
 An iOS layout should rearrange itself for available space instead of treating one screen as a picture to enlarge or shrink.
 
+![The same recipe interface stacks in narrow space and uses columns in wide space](visuals/adaptive-layout.svg)
+
 ## What it means
 
 Available space changes with the device, orientation, multitasking, system UI, language, and preferred text size. A fixed composition that fits one screenshot can clip, overlap, or become unreadable in another environment.

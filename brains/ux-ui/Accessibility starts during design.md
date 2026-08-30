@@ -9,6 +9,8 @@ created: 2026-08-29
 
 Accessibility is a design constraint from the first sketch, not a check performed after the interface is finished.
 
+![A flexible row grows for large text while a fixed row clips its label](visuals/accessibility-first.svg)
+
 ## What it means
 
 People may read with larger text, navigate with VoiceOver, need stronger contrast, avoid motion, or interact without precise touch. These needs affect hierarchy, layout, wording, color, control size, and navigation.

@@ -7,7 +7,9 @@ tags:
 created: 2026-08-29
 ---
 
-A beginner's path through iOS interface design. These notes turn Apple's broad guidance into small rules that can be understood and applied one at a time.
+This brain is a public demo of what [Brain](https://github.com/tjakobsson/brain) can do. It presents a beginner's path through iOS interface design by turning Apple's broad guidance into small rules that can be understood and applied one at a time.
+
+The diagrams are original teaching aids rather than copies of Apple's HIG artwork. Apple remains the source for the design guidance.
 
 ## Start here
 

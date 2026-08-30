@@ -9,6 +9,8 @@ created: 2026-08-29
 
 People can use an app sooner when its interactions behave like the rest of iOS.
 
+![A familiar list-to-detail path uses a conventional back button](visuals/familiar-navigation.svg)
+
 ## What it means
 
 iOS users already know that tapping activates a control, swiping can reveal actions, a back button returns to the previous screen, and a tab changes the current section. Reusing these conventions lets prior experience do part of the teaching.

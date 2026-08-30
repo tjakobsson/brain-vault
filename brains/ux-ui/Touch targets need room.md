@@ -10,6 +10,8 @@ created: 2026-08-29
 
 An interactive element needs a large enough target to acquire accurately, even when its visible symbol is small.
 
+![A small icon sits inside a larger 44-point touch target with space between neighboring targets](visuals/touch-target.svg)
+
 ## What it means
 
 Apple recommends a minimum target of 44 by 44 points for iOS and iPadOS. The artwork does not need to fill that area. A small icon can have padding that expands the region that responds to touch.

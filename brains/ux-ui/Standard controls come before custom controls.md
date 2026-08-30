@@ -9,6 +9,8 @@ created: 2026-08-29
 
 Start with an iOS system component when it already matches the job.
 
+![A switch, button, and text field each match a familiar job](visuals/system-controls.svg)
+
 ## What it means
 
 Buttons, toggles, text fields, lists, tabs, sheets, and other system components carry familiar appearance and behavior. They also handle interaction states, accessibility information, larger text, and platform changes that a custom control must implement itself.

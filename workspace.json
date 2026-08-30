@@ -1,7 +1,7 @@
 {
   "version": 1,
   "title": "Tobias's brains",
-  "description": "Independent collections of connected notes.",
+  "description": "A public demo of what Brain can do with independent collections of connected notes.",
   "brains": [
     {
       "id": "manual",

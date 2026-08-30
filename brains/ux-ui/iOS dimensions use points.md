@@ -9,6 +9,8 @@ created: 2026-08-29
 
 iOS interface dimensions are described in points, not physical screen pixels.
 
+![The same 44-point target maps to different pixel counts at different display scales](visuals/points-and-pixels.svg)
+
 ## What it means
 
 A point is a logical unit used to size and position interface elements. The system maps each point to pixels according to the display's scale. This lets the same point-based layout keep a similar apparent size on screens with different pixel densities.
