@@ -4,17 +4,35 @@
   "description": "A public demo of what Brain can do with independent collections of connected notes.",
   "brains": [
     {
-      "id": "manual",
-      "title": "Brain manual",
-      "path": "./brains/manual",
-      "description": "Organization, engineering, and personal knowledge"
+      "id": "outcome-delivery",
+      "title": "Outcome delivery",
+      "path": "./brains/outcome-delivery",
+      "description": "Outcome management, delivery flow, measurement, and constraints"
     },
     {
-      "id": "ux-ui",
-      "title": "iOS UX and UI",
-      "path": "./brains/ux-ui",
-      "description": "Beginner-friendly iOS design knowledge from Apple",
+      "id": "software-supply-chain",
+      "title": "Software supply chain evidence",
+      "path": "./brains/software-supply-chain",
+      "description": "SBOM, VEX, and operational vulnerability evidence"
+    },
+    {
+      "id": "ios-interface-design",
+      "title": "iOS interface design",
+      "path": "./brains/ios-interface-design",
+      "description": "Beginner-friendly iOS interface guidance from Apple",
       "accent": "#007AFF"
+    },
+    {
+      "id": "capability-backed-product-engineering",
+      "title": "Capability-backed product engineering",
+      "path": "./brains/capability-backed-product-engineering",
+      "description": "Executable capability contracts and end-to-end feature slices"
+    },
+    {
+      "id": "workbench",
+      "title": "Brain workbench",
+      "path": "./brains/workbench",
+      "description": "Inbox, orphan, and unresolved-link examples for vault diagnostics"
     }
   ]
 }

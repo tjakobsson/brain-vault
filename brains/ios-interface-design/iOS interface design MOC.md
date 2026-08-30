@@ -7,7 +7,7 @@ tags:
 created: 2026-08-29
 ---
 
-This brain is a public demo of what [Brain](https://github.com/tjakobsson/brain) can do. It presents a beginner's path through iOS interface design by turning Apple's broad guidance into small rules that can be understood and applied one at a time.
+This brain presents a beginner's path through iOS interface design by turning Apple's broad guidance into small rules that can be understood and applied one at a time.
 
 The diagrams are original teaching aids rather than copies of Apple's HIG artwork. Apple remains the source for the design guidance.
 
@@ -19,14 +19,14 @@ The diagrams are original teaching aids rather than copies of Apple's HIG artwor
 
 ## Layout
 
-4. [[iOS dimensions use points]]
-5. [[Safe areas protect important content]]
-6. [[iOS layouts adapt instead of scaling]]
+1. [[iOS dimensions use points]]
+2. [[Safe areas protect important content]]
+3. [[iOS layouts adapt instead of scaling]]
 
 ## Interaction and access
 
-7. [[Touch targets need room]]
-8. [[Accessibility starts during design]]
+1. [[Touch targets need room]]
+2. [[Accessibility starts during design]]
 
 ## Sources
 

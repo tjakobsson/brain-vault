@@ -21,7 +21,7 @@ Custom controls make sense when the interaction truly has no suitable system equ
 
 Use a switch for a setting that is either on or off. A custom sliding shape may look unique, but it must recreate the switch's states, touch behavior, keyboard behavior, and accessibility support.
 
-Related: [[Familiar interactions reduce learning]] and [[Accessibility starts during design]].
+Related: [[Familiar interactions reduce learning]] and [[Accessibility starts during design]]. A familiar control still needs real behavior behind it; [[@capability-backed-product-engineering/Executable capability contracts keep interface design honest]] explains how to keep that promise testable.
 
 ## Source
 
