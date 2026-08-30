@@ -66,7 +66,7 @@ An AI agent can create a polished control and invent the service behind it in on
 
 Give design and coding agents the capability contracts, state tables, and verified examples as context. Require a proposed contract change when an interaction needs an operation or state that does not exist. This turns "the backend cannot do that" into an early, reviewable change instead of a late integration surprise.
 
-The practical consequence is [[Build an iOS chat as a contract-backed vertical slice]]. This also applies the end-to-end reasoning in [[@outcome-delivery/Local acceleration cannot fix end-to-end flow]]: faster interface generation does not improve delivery if integration remains the constraint.
+The practical consequence is [[Build an iOS chat as a contract-backed vertical slice]]. [[OpenSpec needs an executable UX feedback workflow]] describes how a code agent can preserve these distinctions while designing in Xcode and Simulator. This also applies the end-to-end reasoning in [[@outcome-delivery/Local acceleration cannot fix end-to-end flow]]: faster interface generation does not improve delivery if integration remains the constraint.
 
 ## Sources
 
