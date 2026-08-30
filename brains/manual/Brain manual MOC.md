@@ -13,6 +13,7 @@ This workspace is a public demo of what [Brain](https://github.com/tjakobsson/br
 - [[From function to flow]] — Kersten: value streams over functional silos
 - [[Independence of action]] — Kim & Spear: wire work so autonomy is possible
 - [[Outcome Management directs Agentic Engineering]] — Kersten: connect agent-produced outputs to measurable effects
+- [[Improving the work is part of the work]] — Kim and Kersten: make flow improvement part of delivery
 
 ## Software supply chain
 

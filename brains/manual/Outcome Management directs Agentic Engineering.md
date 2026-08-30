@@ -34,9 +34,10 @@ Outcome Management is therefore the control system for Agentic Engineering. It k
 2. State an outcome hypothesis: *If we build X for Y, we expect metric Z to change.*
 3. Let agents produce the smallest useful experiment or output.
 4. Measure whether the expected effect occurred.
-5. Continue, change, or stop based on the evidence.
+5. Find and remove the constraint limiting flow through the loop.
+6. Continue, change, or stop based on the evidence.
 
-The goal is not maximum agent activity. It is the shortest reliable loop from human intent, through agent-produced output, to a measured effect.
+The goal is not maximum agent activity. It is the shortest reliable loop from human intent, through agent-produced output, to a measured effect. Improving that loop is part of the work itself, as [[Improving the work is part of the work]] explains.
 
 Related: [[From function to flow]] gives those outcomes an organizational home. [[Independence of action]] explains the modular structure teams and agents need to pursue them without excessive coordination.
 
