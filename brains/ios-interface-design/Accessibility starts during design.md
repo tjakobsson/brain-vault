@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - accessibility
-created: 2026-08-29
+created: 2026-08-30T09:24:04.906281959+02:00
+updated: 2026-08-30T09:24:04.906320417+02:00
 ---
 
 Accessibility is a design constraint from the first sketch, not a check performed after the interface is finished.

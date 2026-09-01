@@ -4,7 +4,8 @@ status: developing
 tags:
   - software-supply-chain
   - security
-created: 2026-08-30
+created: 2026-08-30T09:24:44.524671877+02:00
+updated: 2026-08-30T09:24:44.524765419+02:00
 ---
 
 This brain follows the evidence needed to understand software composition, judge vulnerability exposure, and act on the result.

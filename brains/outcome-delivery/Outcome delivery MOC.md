@@ -4,7 +4,8 @@ status: established
 tags:
   - outcome-management
   - delivery-flow
-created: 2026-08-26
+created: 2026-08-30T09:24:44.524133168+02:00
+updated: 2026-08-30T09:24:44.524245126+02:00
 ---
 
 This brain examines how software organizations direct work toward measurable outcomes and improve the path from intent to effect.

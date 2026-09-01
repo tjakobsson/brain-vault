@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - components
-created: 2026-08-29
+created: 2026-08-30T09:24:04.902525159+02:00
+updated: 2026-08-30T09:30:19.923052759+02:00
 ---
 
 Start with an iOS system component when it already matches the job.

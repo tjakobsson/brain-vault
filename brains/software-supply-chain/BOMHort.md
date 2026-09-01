@@ -7,7 +7,8 @@ tags:
   - vex
   - security-tools
   - kubernetes
-created: 2026-08-29
+created: 2026-08-30T09:24:04.900221987+02:00
+updated: 2026-08-30T09:24:04.900341862+02:00
 ---
 
 [BOMHort](https://docs.bomhort.dev/) is an Apache-2.0, Kubernetes-native platform for collecting and governing [[Software Bill of Materials|SBOMs]]. It was previously called SeeBOM.

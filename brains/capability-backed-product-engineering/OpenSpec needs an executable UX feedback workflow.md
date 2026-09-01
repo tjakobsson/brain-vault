@@ -7,7 +7,8 @@ tags:
   - ios-development
   - contract-first
   - ai-assisted-development
-created: 2026-08-30
+created: 2026-08-30T10:45:03.968088766+02:00
+updated: 2026-08-30T10:45:03.968272184+02:00
 ---
 
 OpenSpec needs a project-specific workflow for executable UX exploration when the design medium is a running app rather than a drawing tool. Its standard OPSX workflow can hold requirements, implementation tasks, and revisions. It does not itself build an Xcode project, drive Simulator, run API mocks, or turn a discovery in the interface into a proposed backend contract.

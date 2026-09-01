@@ -6,7 +6,8 @@ tags:
   - vertical-slice
   - contract-testing
   - chat
-created: 2026-08-30
+created: 2026-08-30T09:24:04.912900931+02:00
+updated: 2026-08-30T09:30:19.921897548+02:00
 ---
 
 Build one thin conversation path through the iOS app and backend before expanding either side. For chat, the first slice is small: enter text, send it, observe a real request, and display a real response. A fake model response is fine at first if the request crosses the actual client-server boundary.

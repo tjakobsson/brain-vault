@@ -6,7 +6,8 @@ tags:
   - product-engineering
   - ux-ui
   - ai-assisted-development
-created: 2026-08-30
+created: 2026-08-30T09:24:04.912472889+02:00
+updated: 2026-08-30T10:45:26.008568790+02:00
 ---
 
 An interface should only promise actions that the product can perform. In AI-assisted development, that requires more than asking a designer or agent to read backend code. The team needs a small, executable description of each user capability that both the interface and the implementation must obey.

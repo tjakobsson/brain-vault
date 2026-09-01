@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - visual-hierarchy
-created: 2026-08-29
+created: 2026-08-30T09:24:04.901317781+02:00
+updated: 2026-08-30T09:24:04.901351906+02:00
 ---
 
 An iOS screen should make its main content or task obvious before it asks people to notice secondary controls.

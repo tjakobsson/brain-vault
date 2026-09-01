@@ -4,7 +4,8 @@ status: developing
 tags:
   - measurement
   - outcome-management
-created: 2026-08-30
+created: 2026-08-30T09:24:04.898351066+02:00
+updated: 2026-08-30T09:24:04.898400608+02:00
 ---
 
 Outcome metrics measure a change for customers, employees, or the business. They test whether delivered outputs had the intended effect instead of treating completed work as proof of value.

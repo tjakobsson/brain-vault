@@ -5,7 +5,8 @@ tags:
   - flow
   - systems-thinking
   - theory-of-constraints
-created: 2026-08-30
+created: 2026-08-30T09:24:04.897154813+02:00
+updated: 2026-08-30T09:24:04.897196105+02:00
 ---
 
 Making one stage faster barely changes total delivery time when most delay sits elsewhere. The system improves only when work on a local stage relieves the constraint on end-to-end flow.

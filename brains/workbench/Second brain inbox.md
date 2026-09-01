@@ -3,7 +3,8 @@ type: fleeting
 status: draft
 tags:
   - meta
-created: 2026-08-26
+created: 2026-08-30T09:24:04.900768238+02:00
+updated: 2026-08-30T09:30:19.923362843+02:00
 ---
 
 Loose threads to process into permanent notes.

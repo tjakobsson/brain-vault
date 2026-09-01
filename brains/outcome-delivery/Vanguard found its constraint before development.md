@@ -5,7 +5,8 @@ tags:
   - case-study
   - flow
   - measurement
-created: 2026-08-30
+created: 2026-08-30T09:24:04.898791609+02:00
+updated: 2026-08-30T09:24:04.898856275+02:00
 ---
 
 Vanguard measured about 190 days from idea to production:

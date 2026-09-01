@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - layout
-created: 2026-08-29
+created: 2026-08-30T09:24:04.903107868+02:00
+updated: 2026-08-30T09:24:04.903149868+02:00
 ---
 
 The safe area identifies the part of a screen where system UI and device shape will not cover important content.

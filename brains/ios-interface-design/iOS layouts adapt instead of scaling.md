@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - adaptive-layout
-created: 2026-08-29
+created: 2026-08-30T09:24:04.905779832+02:00
+updated: 2026-08-30T09:24:04.905906916+02:00
 ---
 
 An iOS layout should rearrange itself for available space instead of treating one screen as a picture to enlarge or shrink.

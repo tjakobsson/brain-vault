@@ -4,7 +4,8 @@ status: developing
 tags:
   - measurement
   - value-stream-management
-created: 2026-08-30
+created: 2026-08-30T09:24:04.897536314+02:00
+updated: 2026-08-30T09:24:04.897571273+02:00
 ---
 
 Work that is hidden across planning documents, delivery tools, approval queues, and production systems cannot be measured end to end. Making the full value stream visible is the first step toward finding where work waits.

@@ -4,7 +4,8 @@ status: draft
 tags:
   - org-design
   - books
-created: 2026-08-26
+created: 2026-08-30T09:24:04.894790683+02:00
+updated: 2026-08-30T09:24:04.894862975+02:00
 ---
 
 > "Organisations need to shift from function to flow by replacing silos with value streams structured from an Outcome Tree."

@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - interaction-design
-created: 2026-08-29
+created: 2026-08-30T09:24:04.901695240+02:00
+updated: 2026-08-30T09:24:04.901744198+02:00
 ---
 
 People can use an app sooner when its interactions behave like the rest of iOS.

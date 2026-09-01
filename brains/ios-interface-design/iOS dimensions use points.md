@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - layout
-created: 2026-08-29
+created: 2026-08-30T09:24:04.902856159+02:00
+updated: 2026-08-30T09:24:04.902901034+02:00
 ---
 
 iOS interface dimensions are described in points, not physical screen pixels.

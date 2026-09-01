@@ -5,7 +5,8 @@ tags:
   - software-supply-chain
   - sbom
   - security
-created: 2026-08-29
+created: 2026-08-30T09:24:04.899625736+02:00
+updated: 2026-08-30T09:24:04.899676402+02:00
 ---
 
 A Software Bill of Materials, or SBOM, is a machine-readable inventory of the components in a piece of software. It records names, versions, suppliers, package identifiers, licenses, and dependency relationships. SPDX and CycloneDX are the main exchange formats.

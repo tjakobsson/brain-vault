@@ -5,7 +5,8 @@ tags:
   - continuous-improvement
   - flow
   - outcome-management
-created: 2026-08-30
+created: 2026-08-30T09:24:04.896883563+02:00
+updated: 2026-08-30T09:24:04.896922438+02:00
 ---
 
 > "The process of optimizing the Outcome Loop is the process of applying the Theory of Constraints to your planning and delivery processes."

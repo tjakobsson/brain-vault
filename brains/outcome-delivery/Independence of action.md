@@ -4,7 +4,8 @@ status: draft
 tags:
   - org-design
   - books
-created: 2026-08-26
+created: 2026-08-30T09:24:04.895522435+02:00
+updated: 2026-08-30T09:24:04.895594602+02:00
 ---
 
 > "The benefit is that small teams gain independence of action, enabling them to work and experiment on more manageable parts of the problem in parallel and more quickly and safely, with lower costs of coordination."

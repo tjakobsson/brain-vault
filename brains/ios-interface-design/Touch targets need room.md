@@ -5,7 +5,8 @@ tags:
   - ios-design
   - interaction-design
   - accessibility
-created: 2026-08-29
+created: 2026-08-30T09:24:04.906088833+02:00
+updated: 2026-08-30T09:24:04.906123041+02:00
 ---
 
 An interactive element needs a large enough target to acquire accurately, even when its visible symbol is small.

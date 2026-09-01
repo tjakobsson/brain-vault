@@ -6,7 +6,8 @@ tags:
   - outcome-management
   - software-development
   - books
-created: 2026-08-27
+created: 2026-08-30T09:24:04.895974311+02:00
+updated: 2026-08-30T09:24:04.896162103+02:00
 ---
 
 > "Outcome Management: A systems-level leadership practice that aligns strategy, design, delivery, decision-making, and measurement to business and customer outcomes."

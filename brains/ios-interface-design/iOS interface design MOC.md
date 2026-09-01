@@ -4,7 +4,8 @@ status: developing
 tags:
   - ios-design
   - ux-ui
-created: 2026-08-29
+created: 2026-08-30T09:24:44.525016920+02:00
+updated: 2026-08-30T09:24:44.525081378+02:00
 ---
 
 This brain presents a beginner's path through iOS interface design by turning Apple's broad guidance into small rules that can be understood and applied one at a time.

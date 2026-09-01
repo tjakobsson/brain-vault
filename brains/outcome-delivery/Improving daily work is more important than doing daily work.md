@@ -4,7 +4,8 @@ status: developing
 tags:
   - continuous-improvement
   - flow
-created: 2026-08-30
+created: 2026-08-30T09:24:04.896424645+02:00
+updated: 2026-08-30T09:24:04.896480895+02:00
 ---
 
 > "Improving daily work is even more important than doing daily work."
