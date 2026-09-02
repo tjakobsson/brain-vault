@@ -24,7 +24,7 @@ jobs:
 
       - id: site
         name: Build site
-        uses: tjakobsson/brain@d56f31b51175f9036111dd4e851c5c97b8ce28c9 # v1.3.0
+        uses: tjakobsson/brain@55b87c09c741dc0d7de568ed9027559965ff87ef # v1.5.0
         with:
           workspace: workspace.json
           output: ${{ runner.temp }}/brain-site
